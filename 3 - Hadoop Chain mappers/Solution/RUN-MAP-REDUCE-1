@@ -1,0 +1,42 @@
+#!/bin/sh
+
+#
+# Try to find the streaming JAR
+#
+
+PLACES="/usr/lib/hadoop-mapreduce/hadoop-streaming.jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.2.jar"
+STREAM=""
+
+for place in $PLACES; do
+    if [ -f $place ]
+    then
+	STREAM="$place"
+    fi
+done
+
+if [ -z "$STREAM" ]
+then
+    echo "Unable to find your streaming JAR"
+    exit 1
+fi
+   
+rm -rf stream-output
+rm -rf intermediate-output-1
+rm -rf intermediate-output-2
+hadoop jar $STREAM \
+	-mapper CheckCitationCountMapper.py \
+	-reducer CheckCitationCountReducer.py \
+	-file CheckCitationCountMapper.py -file CheckCitationCountReducer.py \
+	-input input -output intermediate-output-1
+
+hadoop jar $STREAM \
+	-mapper CheckCitationCountMapper2.py \
+	-reducer CheckCitationCountReducer2.py \
+	-file CheckCitationCountMapper2.py -file CheckCitationCountReducer2.py \
+	-input intermediate-output-1 -output intermediate-output-2
+
+hadoop jar $STREAM \
+	-mapper CheckCitationCountMapper3.py \
+	-reducer CheckCitationCountReducer3.py \
+	-file CheckCitationCountMapper3.py -file CheckCitationCountReducer3.py \
+	-input intermediate-output-2 -output output
