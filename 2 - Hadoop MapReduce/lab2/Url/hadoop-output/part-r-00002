@@ -1,0 +1,238 @@
+#Capacity_scheduler	1
+#Comparison_function	1
+#Fair_scheduler	1
+#History	1
+#Logical_view	1
+#Prominent_use_cases	1
+#See_also	2
+#cite_note-105	1
+#cite_note-16	1
+#cite_note-23	1
+#cite_note-3	2
+#cite_note-30	1
+#cite_note-37	1
+#cite_note-44	1
+#cite_note-51	1
+#cite_note-58	1
+#cite_note-65	1
+#cite_note-72	1
+#cite_note-79	1
+#cite_note-86	1
+#cite_note-93	1
+#cite_note-:0-16	2
+#cite_note-ApacheHiveWiki-34	1
+#cite_note-BigtablePaper-37	1
+#cite_note-Chambers2010-30	1
+#cite_note-Clusterpoint-43	1
+#cite_note-HMR-24	1
+#cite_note-failover-76	1
+#cite_note-gridMR-23	1
+#cite_note-mrml-19	1
+#cite_note-tiledMR-22	1
+#cite_ref-102	1
+#cite_ref-14	2
+#cite_ref-2	1
+#cite_ref-21	1
+#cite_ref-28	2
+#cite_ref-35	1
+#cite_ref-42	1
+#cite_ref-49	1
+#cite_ref-56	1
+#cite_ref-63	1
+#cite_ref-77	1
+#cite_ref-84	1
+#cite_ref-9	2
+#cite_ref-91	1
+#cite_ref-98	1
+#cite_ref-:0_16-0	1
+#cite_ref-HBase_36-0	1
+#cite_ref-HMR_24-0	1
+#cite_ref-ddandms1_33-1	1
+#cite_ref-gj1_38-0	1
+#cite_ref-graphicsMR_21-0	1
+#cite_ref-hadoop-apache-org_41-4	1
+#cite_ref-hadoop-summit-2010_46-1	1
+#cite_ref-michael-noll.com_2_69-0	1
+#cite_ref-powered-by-hadoop_31-0	1
+#cite_ref-tom-white-book_27-5	1
+#cite_ref-usage_29-0	1
+#p-search	2
+//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.220.8210	1
+//doi.org/10.1016%2Fj.jcss.2011.12.021	1
+//doi.org/10.1016%2Fj.scico.2007.07.001	1
+//doi.org/10.1145%2F1839294.1839332	1
+//doi.org/10.1145%2F1854273.1854337	1
+//doi.org/10.1145%2F1996023.1996026	1
+//en.m.wikipedia.org/w/index.php?title=Apache_Hadoop&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle	1
+//en.m.wikipedia.org/w/index.php?title=MapReduce&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle	1
+//openlibrary.org/books/OL25423189M	1
+//shop.wikimedia.org" title="Visit the Wikipedia store	2
+/w/index.php?title=Apache_Hadoop&amp;action=edit&amp;section=7" title="Edit section: JobTracker and TaskTracker: the MapReduce engine	1
+/w/index.php?title=Apache_Hadoop&amp;printable=yes" title="Printable version of this page [p]" accesskey="p	1
+/w/index.php?title=Greg_Jorgensen&amp;action=edit&amp;redlink=1" class="new" title="Greg Jorgensen (page does not exist)	1
+/w/index.php?title=MapReduce&amp;action=edit&amp;section=16" title="Edit section: Restricted programming framework	1
+/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=MapReduce	1
+/wiki/AI_Challenge" title="AI Challenge	1
+/wiki/Accelerated_Mobile_Pages" title="Accelerated Mobile Pages	1
+/wiki/Alan_Eustace" title="Alan Eustace	1
+/wiki/Alphabet_Inc." title="Alphabet Inc.	1
+/wiki/Amazon_Elastic_Compute_Cloud" title="Amazon Elastic Compute Cloud	1
+/wiki/Android_software_development" title="Android software development	1
+/wiki/Apache_Ambari" title="Apache Ambari	1
+/wiki/Apache_Avro" title="Apache Avro	1
+/wiki/Apache_Cocoon" title="Apache Cocoon	1
+/wiki/Apache_Derby" title="Apache Derby	1
+/wiki/Apache_Felix" title="Apache Felix	1
+/wiki/Apache_Flink" title="Apache Flink	1
+/wiki/Apache_Hadoop" title="Apache Hadoop	2
+/wiki/Apache_Hadoop" title="View the content page [c]" accesskey="c	1
+/wiki/Apache_MXNet" title="Apache MXNet	1
+/wiki/Apache_Mahout" title="Apache Mahout	3
+/wiki/Apache_Nutch" title="Apache Nutch	2
+/wiki/Apache_OpenEJB" title="Apache OpenEJB	1
+/wiki/Apache_Parquet" title="Apache Parquet	1
+/wiki/Btrfs" title="Btrfs	1
+/wiki/CODASYL" title="CODASYL	1
+/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown	2
+/wiki/Category:Distributed_file_systems" title="Category:Distributed file systems	1
+/wiki/Category:Google_software" title="Category:Google software	2
+/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers	1
+/wiki/Chainsaw_(log_file_viewer)" title="Chainsaw (log file viewer)	1
+/wiki/Chromebox" title="Chromebox	1
+/wiki/Commons_Daemon" title="Commons Daemon	1
+/wiki/Compact_Disc_File_System" title="Compact Disc File System	1
+/wiki/Computer_cluster" title="Computer cluster	2
+/wiki/Connection_Machine" title="Connection Machine	1
+/wiki/Copy-on-write" title="Copy-on-write	1
+/wiki/Data_Intensive_Computing" class="mw-redirect" title="Data Intensive Computing	1
+/wiki/Data_Transfer_Project" title="Data Transfer Project	1
+/wiki/Data_deduplication" title="Data deduplication	1
+/wiki/Database" title="Database	1
+/wiki/Debugfs" title="Debugfs	1
+/wiki/Distributed_data_store" title="Distributed data store	1
+/wiki/Distributed_file_system" class="mw-redirect" title="Distributed file system	5
+/wiki/Don%27t_be_evil" title="Don&#39;t be evil	1
+/wiki/ExFAT" title="ExFAT	2
+/wiki/F2FS" title="F2FS	1
+/wiki/FAT_filesystem_and_Linux" title="FAT filesystem and Linux	1
+/wiki/File_change_log" title="File change log	1
+/wiki/File_system_permissions" title="File system permissions	1
+/wiki/Filesystem_in_Userspace" title="Filesystem in Userspace	2
+/wiki/Flutter_(software)" title="Flutter (software)	1
+/wiki/GFS2" title="GFS2	1
+/wiki/Gayglers" title="Gayglers	1
+/wiki/Gmail_interface" title="Gmail interface	1
+/wiki/Google_Cast" title="Google Cast	1
+/wiki/Google_Classroom" title="Google Classroom	1
+/wiki/Google_Contacts" title="Google Contacts	1
+/wiki/Google_Current" title="Google Current	1
+/wiki/Google_Daydream" title="Google Daydream	1
+/wiki/Google_Docs" title="Google Docs	1
+/wiki/Google_Guava" title="Google Guava	1
+/wiki/Google_Hangouts" title="Google Hangouts	1
+/wiki/Google_My_Maps" class="mw-redirect" title="Google My Maps	1
+/wiki/Google_Nest" title="Google Nest	1
+/wiki/Google_Partners" class="mw-redirect" title="Google Partners	1
+/wiki/Google_Patents" title="Google Patents	1
+/wiki/Google_Primer" title="Google Primer	1
+/wiki/Google_Street_View" title="Google Street View	1
+/wiki/Google_Translate" title="Google Translate	1
+/wiki/Google_Web_Toolkit" title="Google Web Toolkit	1
+/wiki/Google_WiFi" title="Google WiFi	1
+/wiki/Google_bombing" title="Google bombing	1
+/wiki/Google_data_centers" title="Google data centers	1
+/wiki/Googlization" title="Googlization	1
+/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors	14
+/wiki/Help:Category" title="Help:Category	2
+/wiki/Help:IPA/English" title="Help:IPA/English	1
+/wiki/High_Sierra_Format" title="High Sierra Format	1
+/wiki/ISO_9660" title="ISO 9660	1
+/wiki/JRE" class="mw-redirect" title="JRE	1
+/wiki/Jakarta_Project" title="Jakarta Project	1
+/wiki/Jetty_(web_server)" title="Jetty (web server)	1
+/wiki/Journal_of_Computer_and_System_Sciences" title="Journal of Computer and System Sciences	1
+/wiki/Knowledge_Graph" title="Knowledge Graph	1
+/wiki/Lambda_architecture" title="Lambda architecture	1
+/wiki/List_of_default_file_systems" title="List of default file systems	1
+/wiki/Lnfs" title="Lnfs	1
+/wiki/Load_(computing)" title="Load (computing)	1
+/wiki/Log-structured_file_system" title="Log-structured file system	1
+/wiki/MIT_Press" title="MIT Press	1
+/wiki/Macintosh_File_System" title="Macintosh File System	1
+/wiki/MapReduce" title="MapReduce	5
+/wiki/Map_(parallel_pattern)" title="Map (parallel pattern)	1
+/wiki/NTFS" title="NTFS	1
+/wiki/NetBeans" title="NetBeans	1
+/wiki/NetWare_File_System" title="NetWare File System	1
+/wiki/Network-attached_storage" title="Network-attached storage	1
+/wiki/Non-Volatile_File_System" title="Non-Volatile File System	1
+/wiki/OneFS_distributed_file_system" title="OneFS distributed file system	1
+/wiki/Open-source_software" title="Open-source software	2
+/wiki/OpenRefine" title="OpenRefine	1
+/wiki/OpenSocial" title="OpenSocial	1
+/wiki/Open_Library" title="Open Library	1
+/wiki/Owlchemy_Labs" title="Owlchemy Labs	1
+/wiki/Portal:Current_events" title="Find background information on current events	2
+/wiki/Prior_art" title="Prior art	1
+/wiki/RAID" title="RAID	1
+/wiki/Replication_(computer_science)" class="mw-redirect" title="Replication (computer science)	1
+/wiki/SafeSearch" title="SafeSearch	1
+/wiki/Sanjay_Ghemawat" title="Sanjay Ghemawat	1
+/wiki/Server_farm" title="Server farm	1
+/wiki/Shard_(database_architecture)" title="Shard (database architecture)	1
+/wiki/Shell_scripts" class="mw-redirect" title="Shell scripts	1
+/wiki/Snapseed" title="Snapseed	1
+/wiki/Software_developer" class="mw-redirect" title="Software developer	1
+/wiki/Spark_(cluster_computing_framework)" class="mw-redirect" title="Spark (cluster computing framework)	1
+/wiki/Special:BookSources/978-1-4799-3800-1" title="Special:BookSources/978-1-4799-3800-1	1
+/wiki/Special:BookSources/978-1-935-18219-1" title="Special:BookSources/978-1-935-18219-1	1
+/wiki/Special:RecentChangesLinked/Apache_Hadoop" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k	1
+/wiki/Statistical_machine_translation" title="Statistical machine translation	1
+/wiki/Steganographic_file_system" title="Steganographic file system	1
+/wiki/Sundar_Pichai" title="Sundar Pichai	1
+/wiki/Template:Google_Maps_navbox" title="Template:Google Maps navbox	1
+/wiki/Tenor_(website)" title="Tenor (website)	1
+/wiki/UIMA" title="UIMA	1
+/wiki/Unix" title="Unix	1
+/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u	2
+/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability	1
+/wiki/YouTube_TV" title="YouTube TV	1
+/wiki/ZFS_(z/OS_file_system)" title="ZFS (z/OS file system)	1
+/wiki/Zagat" title="Zagat	1
+http://database.cs.brown.edu/projects/mapreduce-vs-dbms	1
+http://developer.yahoo.com/hadoop/	1
+http://gigaom.com/cloud/why-we-need-more-hadoop-innovation/	1
+http://graal.ens-lyon.fr/~gfedak/papers/xtremmapreduce.3pgcic10.pdf	1
+http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Large_Data_Sets	1
+http://hadoopblog.blogspot.com/2010/05/facebook-has-worlds-largest-hadoop.html	1
+http://hive.apache.org/	1
+http://mpitutorial.com/tutorials/performing-parallel-rank-with-mpi/	1
+http://wenbin.org/doc/papers/Wenbin08PACT.pdf	1
+http://www.dummies.com/how-to/content/managing-files-with-the-hadoop-file-system-command.html	1
+http://www.eecs.berkeley.edu/~franklin/Papers/dataspaceSR.pdf	1
+http://www.eng.auburn.edu/~xqin/pubs/hcw10.pdf	1
+http://www.vldb.org/pvldb/1/1454211.pdf	1
+http://yuanluo.net/publications/LUO_ECMLS2011.pdf	1
+http://zookeeper.apache.org/	1
+https://ca.wikipedia.org/wiki/MapReduce" title="MapReduce – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target	1
+https://cwiki.apache.org/confluence/display/Hive/Home	1
+https://de.wikipedia.org/wiki/MapReduce" title="MapReduce – German" lang="de" hreflang="de" class="interlanguage-link-target	1
+https://developer.yahoo.com/blogs/hadoop/hadoop-summit-2010-agenda-available-455.html	1
+https://en.wikipedia.org/w/index.php?title=Template:Google_LLC&amp;action=edit	1
+https://et.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop – Estonian" lang="et" hreflang="et" class="interlanguage-link-target	1
+https://eu.wikipedia.org/wiki/MapReduce" title="MapReduce – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target	1
+https://fa.wikipedia.org/wiki/%D8%A2%D9%BE%D8%A7%DA%86%DB%8C_%D9%87%D8%AF%D9%88%D9%BE" title="آپاچی هدوپ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target	1
+https://fr.wikipedia.org/wiki/Hadoop" title="Hadoop – French" lang="fr" hreflang="fr" class="interlanguage-link-target	1
+https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%93%D7%95%D7%A4" title="האדופ – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target	1
+https://hu.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target	1
+https://issues.apache.org/jira/browse/INFRA-700	2
+https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%A1%E0%B5%82%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D" title="ഹഡൂപ്പ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target	1
+https://pl.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target	1
+https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF_%E0%AE%B9%E0%AE%9F%E0%AF%82%E0%AE%AA%E0%AF%8D" title="அப்பாச்சி ஹடூப் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target	1
+https://web.archive.org/web/20110830130350/http://www.nytimes.com/2009/03/17/technology/business-computing/17cloud.html	1
+https://web.archive.org/web/20140405044536/http://resources.appistry.com/news-and-events/press/06072010-appistry-cloudiq-storage-now-generally-available	1
+https://www.crunchbase.com/organization/mapr-technologies#/entity	1
+https://www.datanami.com/2014/05/12/hadoop-ibm-power/	1
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920	1
+https://zh.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target	1
+https://zh.wikipedia.org/wiki/MapReduce" title="MapReduce – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target	1
